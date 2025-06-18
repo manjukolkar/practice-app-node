@@ -10,7 +10,7 @@
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   AZURE_WEBAPP_NAME: practiceapp123-febhesg2f6dzhtbs        # set this to your application's name
